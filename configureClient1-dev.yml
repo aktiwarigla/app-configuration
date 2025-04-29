@@ -1,1 +1,4 @@
-
+build:
+    name: "configure by git in dev mode"
+    id: "1001"
+    version: "1.0.1"
