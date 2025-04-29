@@ -1,0 +1,4 @@
+build:
+    name: "configure by git"
+    id: "1001"
+    version: "1.0.0"
